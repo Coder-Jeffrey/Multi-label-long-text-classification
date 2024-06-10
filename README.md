@@ -14,3 +14,6 @@ spacy == 3.0.6
 http://nlp.cs.aueb.gr/software_and_datasets/EURLEX57K/datasets.zip
 ### CMU Book Summary
 http://www.cs.cmu.edu/~dbamman/booksummaries.html
+
+## ConceptNet
+https://github.com/commonsense/conceptnet5/wiki/Downloads
