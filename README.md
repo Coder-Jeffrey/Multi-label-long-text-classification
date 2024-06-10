@@ -21,6 +21,10 @@ https://github.com/commonsense/conceptnet5/wiki/Downloads
 ## The BERT pre-trained model.
 https://huggingface.co/ or https://pan.quark.cn/s/c529d057d9d6  ExtractionCode:mrfS
 
+## External Knowledge
+build_kg.py is used to find the concepts triple for datasets.
+TransE(a public method) is used to train the external knowledge.
+
 ## Run
 * cd src
 
