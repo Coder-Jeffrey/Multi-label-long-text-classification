@@ -17,3 +17,6 @@ http://www.cs.cmu.edu/~dbamman/booksummaries.html
 
 ## ConceptNet
 https://github.com/commonsense/conceptnet5/wiki/Downloads
+
+## The BERT pre-trained model.
+https://huggingface.co/ or https://pan.quark.cn/s/c529d057d9d6  ExtractionCode:mrfS
