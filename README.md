@@ -24,7 +24,7 @@ https://huggingface.co/ or https://pan.quark.cn/s/c529d057d9d6  ExtractionCode:m
 ## External Knowledge
 build_kg.py is used to find the concepts triple for datasets.
 TransE(a public method) is used to train the external knowledge.
-Next, use PPMI.py to enhance the external knowledge representation
+Next, use PPMI.py to enhance the external knowledge representation.
 
 ## Long text segmentation
 
