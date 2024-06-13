@@ -26,12 +26,12 @@ build_kg.py is used to find the concepts triple for datasets.
 TransE(a public method) is used to train the external knowledge.
 Next, use PPMI.py to enhance the external knowledge representation
 
+## Long text segmentation
+
+text_segmentation.py designs a dynamic programming method for long text segmentation.
+
 ## Run
-* cd 
-
 * cd src
-
-* run text_segmentation.py for long text segmentation
 
 * run train.py
 
