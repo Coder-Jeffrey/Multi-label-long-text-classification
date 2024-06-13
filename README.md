@@ -27,7 +27,11 @@ TransE(a public method) is used to train the external knowledge.
 Next, use PPMI.py to enhance the external knowledge representation
 
 ## Run
+* cd 
+
 * cd src
+
+* run text_segmentation.py for long text segmentation
 
 * run train.py
 
